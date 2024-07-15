@@ -1,4 +1,4 @@
-let history = [];
+let history = []; 
 
         const colorPicker = document.getElementById('colorPicker');
         const canvasColor = document.getElementById('canvasColor');
